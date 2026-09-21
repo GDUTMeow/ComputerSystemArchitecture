@@ -24,11 +24,3 @@ ComputerSystemArchitecture
  |
  |- 作业x代码
 ```
-
-## 作业列表
-
-### 作业1
-
-1. 登陆网站 "https://10.21.21.251/users/sign_up"注册账号。
-2. 下载安装git软件。
-3. 自己学习md文档格式，命名为“作业1.md”
